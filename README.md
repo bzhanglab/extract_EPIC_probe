@@ -4,6 +4,6 @@ These two tables are further incorporated into the R package genomicWidgets to g
 This script starts from the EPIC probe annotation (V1.0 B2 Manifest file) that were lifted and re-annotated by Ding's group: https://github.com/ding-lab/cptac_methylation
 and extracts the probes located up to 1501 upstream of the TSS and simultaneously in the CpG island.
 
-##Contact
+## Contact
 Chen Huang
 ibphuangchen@gmail.com
